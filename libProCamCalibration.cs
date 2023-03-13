@@ -1,6 +1,6 @@
 ﻿/***************************************************************************
     LibProCamCalibration: libProCamCalibration.dllのUnity用APIクラス
-    Created on 2018/08/19 by SATOToshiki
+    
  ***************************************************************************/
 
 using UnityEngine;
