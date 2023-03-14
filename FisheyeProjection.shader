@@ -1,6 +1,6 @@
 ﻿/******************************************************************************************
 	Fisheye Projection Shader for Baloonigen, OmniProCamLight and OmniProCam Project
-	Created on 2018/09/05 by SATOToshiki@TokyoTech
+	
 ******************************************************************************************/
 
 Shader "Projection/FisheyeProjection"
